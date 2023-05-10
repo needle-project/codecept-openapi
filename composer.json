@@ -1,5 +1,5 @@
 {
-    "name": "needle-project/codecept-api",
+    "name": "needle-project/codecept-openapi",
     "type": "module",
     "description": "Purpose is to interpret an OpenAPI file and run tests in order to validate if the desired host respects it's contract",
     "authors": [
