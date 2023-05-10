@@ -1,0 +1,20 @@
+{
+    "name": "needle-project/codecept-api",
+    "type": "module",
+    "description": "Purpose is to interpret an OpenAPI file and run tests in order to validate if the desired host respects it's contract",
+    "authors": [
+        {
+            "name": "Adrian Tilita",
+            "email": "adrian@tilita.ro"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "NeedleProject\\CodeceptOpenAPI\\": "src/"
+        }
+    },
+    "require": {
+        "cebe/php-openapi": "*"
+    }
+}
+
